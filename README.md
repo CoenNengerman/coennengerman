@@ -1,15 +1,17 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Bomen op de Kaart, Locatielab
+- 🔭 I’m currently working on Zicht op Overheid Platform
 - 🌱 I’m currently learning React (www.epicreact.dev)
 - 📫 How to reach me: coen@spatialexplorers.nl
-- 💬 Ask me about: GIS, Spatial data(bases), geoprocessing, ETL, 
+- 💬 Ask me about: GIS, Spatial data(bases), geoprocessing, ETL, Birds
 - 💬 Languages: Python, SQL, PL/SQL
 
 Previous projects:
 - https://kansenatlas.seo.nl
 - https://aruba.spatialexplorers.nl
 - https://www.tijhuisingenieurs.nl/files/folder-tapp-los.pdf
+- https;//portaal.bomenopdekaart.nl
+- https://www.locatielab.com
 
 
 
