@@ -10,7 +10,7 @@ Previous projects:
 - https://kansenatlas.seo.nl
 - https://aruba.spatialexplorers.nl
 - https://www.tijhuisingenieurs.nl/files/folder-tapp-los.pdf
-- https;//portaal.bomenopdekaart.nl
+- https://portaal.bomenopdekaart.nl
 - https://www.locatielab.com
 
 
